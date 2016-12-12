@@ -1,0 +1,34 @@
+id=0, name=Microsoft Sound Mapper - Input
+id=1, name=Desktop Microphone (2- HD-5000 
+id=2, name=Wave (E-MU E-DSP Audio Processo
+id=3, name=Microsoft Sound Mapper - Output
+id=4, name=Speakers (E-MU E-DSP Audio Proc
+id=5, name=Primary Sound Capture Driver
+id=6, name=Desktop Microphone (2- HD-5000 - Microsoft LifeCam.)
+id=7, name=Wave (E-MU E-DSP Audio Processor (WDM))
+id=8, name=Primary Sound Driver
+id=9, name=Speakers (E-MU E-DSP Audio Processor (WDM))
+id=10, name=E-MU ASIO
+id=11, name=JackRouter
+id=12, name=Speakers (E-MU E-DSP Audio Processor (WDM))
+id=13, name=Wave (E-MU E-DSP Audio Processor (WDM))
+id=14, name=Desktop Microphone (2- HD-5000 - Microsoft LifeCam.)
+id=15, name=E-DSP Wave [FFC0]
+id=16, name=HD-5000 - Microsoft LifeCam.
+id=0, name=Microsoft Sound Mapper - Input
+id=1, name=Desktop Microphone (2- HD-5000 
+id=2, name=Wave (E-MU E-DSP Audio Processo
+id=3, name=Microsoft Sound Mapper - Output
+id=4, name=Speakers (E-MU E-DSP Audio Proc
+id=5, name=Primary Sound Capture Driver
+id=6, name=Desktop Microphone (2- HD-5000 - Microsoft LifeCam.)
+id=7, name=Wave (E-MU E-DSP Audio Processor (WDM))
+id=8, name=Primary Sound Driver
+id=9, name=Speakers (E-MU E-DSP Audio Processor (WDM))
+id=10, name=E-MU ASIO
+id=11, name=JackRouter
+id=12, name=Speakers (E-MU E-DSP Audio Processor (WDM))
+id=13, name=Wave (E-MU E-DSP Audio Processor (WDM))
+id=14, name=Desktop Microphone (2- HD-5000 - Microsoft LifeCam.)
+id=15, name=E-DSP Wave [FFC0]
+id=16, name=HD-5000 - Microsoft LifeCam.
