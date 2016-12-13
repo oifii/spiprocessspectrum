@@ -18,6 +18,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="icon1.ico" />
+    <None Include="spi.licenseheader" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="spiprocessspectrum.cpp" />
